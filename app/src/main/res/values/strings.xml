@@ -1,0 +1,52 @@
+<!--
+~ Copyright (C) 2019 The Android Open Source Project
+~
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~      http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Stu</string>
+
+    <string name="menu_editor_save_title">Save</string>
+    <string name="menu_editor_delete_title">Delete</string>
+    <string name="menu_editor_cancel_title">Cancel</string>
+
+    <string name="dashboard_title">Dashboard</string>
+
+    <string name="subjects_title">Subjects</string>
+
+    <string name="academicterm_list_title">Academic Terms</string>
+    <string name="academicterm_list_empty_view_title">It&#8217;s a bit lonely here&#8230;</string>
+    <string name="academicterm_list_empty_view_message">Get started by adding an academic term</string>
+
+    <string name="academicterm_title">Edit Academic Term</string>
+    <string name="academicterm_title_add">Add Academic Term</string>
+    <string name="academicterm_alias_hint">Alias</string>
+    <string name="academicterm_date_covered_hint">Period covered</string>
+    <string name="academicterm_active_academic_term_hint">Set as active academic term</string>
+    <string name="academicterm_grading_period_overline">Grading periods</string>
+    <string name="academicterm_grading_period_empty_text">No grading periods added</string>
+    <string name="academicterm_daterange_format">%1$s – %2$s</string>
+
+    <string name="instructors_title">Instructors</string>
+
+    <string name="sessions_title">Sessions</string>
+
+    <string name="grades_title">Grades</string>
+
+    <string name="error_dialog_title">An error has occurred</string>
+    <string name="error_dialog_message_academicterm_alias_empty">An alias must be supplied for this academic term to be saved.</string>
+    <string name="error_dialog_action_ok">OK</string>
+    <string name="error_dialog_action_cancel">Cancel</string>
+
+</resources>
